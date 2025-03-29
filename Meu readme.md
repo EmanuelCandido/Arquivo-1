@@ -1,6 +1,6 @@
-# 🚀 **Projeto Git & GitHub**  
+# 🖥 **Projeto Git & GitHub**  
 ___
-🎓 Olá! Sou um aluno do **1º período de Engenharia de Software** e estou aprendendo os fundamentos essenciais do **Git e GitHub**. Este repositório reúne tudo que venho estudando, desde comandos básicos até práticas mais avançadas de versionamento.  
+🎓 Olá! Sou Emanuel Cândido um aluno do **1º período de Engenharia de Software** e estou aprendendo os fundamentos essenciais do **Git e GitHub**. Este repositório reúne tudo que venho estudando, desde comandos básicos até práticas mais avançadas de versionamento.  
 
 ## 📌 **O que estou aprendendo?**  
 ✅ Inicialização de repositórios (`git init`)  
@@ -10,8 +10,6 @@ ___
 ✅ Resolução de conflitos no Git  
 ✅ Trabalho colaborativo no GitHub  
 
-##👤 **Sobre mim**
-Sou Emanuel Cândido aluno da Universidade Santo Agostinho do curso de Engenharia de Software
 
 ## 🛠️ **Ferramentas Utilizadas**  
 🔹 Git  
