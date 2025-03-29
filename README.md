@@ -13,5 +13,6 @@ Emanuel Cândido da Silva Lima🔥
  + **Instagram: _emanuel_1😈**
 
  + **Contato:(89)-999928573🤖**
-   ![plano](https://i.ibb.co/BH6SdF8J/git-github-drawio.png)
+ 
+![git-github-drawio](https://github.com/user-attachments/assets/ee9a4d2b-e7d6-4376-aa32-d0dd861bfa08)
 
