@@ -8,8 +8,8 @@ Professor: Anderson Costa
 
 Emanuel Cândido da Silva Lima🔥
 ------------
-Curso: Engenharia de Software🚀
+-Curso: Engenharia de Software🚀
 
-Instagram: _emanuel_1😈
+-Instagram: _emanuel_1😈
 
-Contato:(89)-999928573🤖
+-Contato:(89)-999928573🤖
