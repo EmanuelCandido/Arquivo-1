@@ -18,7 +18,7 @@ Professor: Anderson Costa
 
 ## 👤 **Sobre mim**
 
-> Sou Emanuel Cândido aluno da Universidade Santo Agostinho do **1º periodo do curso de Engenharia de Software** e nessa extensão estou aprendendo a usar as ferramentas **Git, Github e VS CODE** desde o basico ate praticas mais avançadas.
+> Sou Emanuel Cândido aluno da Universidade Santo Agostinho do **1º periodo do curso de Engenharia de Software** e nessa extensão estou aprendendo a usar as ferramentas **Git, Github e VS CODE** desde o básico ate práticas mais avançadas.
 
 + **Instagram: [_emanuel_1](http://instagram.com/_emanuel_1)** 
 
