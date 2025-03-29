@@ -10,6 +10,9 @@ ___
 ✅ Resolução de conflitos no Git  
 ✅ Trabalho colaborativo no GitHub  
 
+##👤 **Sobre mim**
+Sou Emanuel Cândido aluno da Universidade Santo Agostinho do curso de Engenharia de Software
+
 ## 🛠️ **Ferramentas Utilizadas**  
 🔹 Git  
 🔹 GitHub Desktop  
