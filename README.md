@@ -10,9 +10,9 @@ Professor: Anderson Costa
 
 Sou Emanuel Cândido aluno da Universidade Santo Agostinho do curso de Engenharia de Software
 
- + **Instagram: _emanuel_1😈**
+ + **Instagram: _emanuel_1**
 
- + **Contato:(89)-999928573🤖**
+ + **Contato:(89)-999928573**
 
    [Markdown](https://docs.google.com/document/d/1a8aMON8q10J1bYiZS8wJhzmIuMIJSPG2oGshEV8ZtAc/edit?tab=t.0)
 
