@@ -1,7 +1,6 @@
-# Arquivo-1
- Primeiro projeto com git
----
-Feito em um curso de extensão na Universidade Santo Agostinho
+# 🖥Primeiro projeto de versionamento com Git & Gihub
+
+### Feito em um curso de extensão na Universidade Santo Agostinho
 
 Professor: Anderson Costa
 
@@ -18,4 +17,5 @@ Sou Emanuel Cândido aluno da Universidade Santo Agostinho do curso de Engenhari
 
  + **Contato:(89)-999928573**
 
+## 
  
