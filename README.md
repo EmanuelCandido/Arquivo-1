@@ -6,9 +6,8 @@ Feito em um curso de extensão na Universidade Santo Agostinho
 Professor: Anderson Costa
 
 
-Emanuel Cândido da Silva Lima🔥
-------------
-+ **Curso: Engenharia de Software🚀**
+##👤 **Sobre mim**
+Sou Emanuel Cândido aluno da Universidade Santo Agostinho do curso de Engenharia de Software
 
  + **Instagram: _emanuel_1😈**
 
